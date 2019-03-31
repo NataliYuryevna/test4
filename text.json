@@ -1,7 +1,10 @@
 {
  "items": [
    {
-     "section": "false"
+     "section": {
+       "url": "url",
+       "title": "title"
+     }
    }
  ]
 }
