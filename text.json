@@ -2,6 +2,8 @@
  "items": [
    {
      "section": {
+        "title": "AMP YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw",
         "text": "8b",
         "styleButton":"background-color: #bbe0e2; border-color: #bbe0e2; color: #2f6c6f; padding: 1rem 2rem; border-radius: 0px; font-size: 1rem;",
         "urlButton":"https://8b.com/",
