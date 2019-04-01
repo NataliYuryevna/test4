@@ -2,6 +2,10 @@
  "items": [
    {
      "section": {
+        "text": "8b",
+        "styleButton":"background-color: #bbe0e2; border-color: #bbe0e2; color: #2f6c6f; padding: 1rem 2rem; border-radius: 0px; font-size: 1rem;",
+        "urlButton":"https://8b.com/",
+        "textButton": "Перейти"
      }
    }
  ]
