@@ -4,6 +4,7 @@
      "section": {
         "classSection": "mbr-flex mbr-jc-c",
         "text": "8b",
+        "styleButton": "border-color:#fff"
         "classButton":"btn display7",
         "urlButton":"https://8b.com/",
         "textButton": "Перейти"
