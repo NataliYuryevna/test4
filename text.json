@@ -4,9 +4,9 @@
      "section": {
      	"classSection": "mbr-flex mbr-jc-c",
         "text": "8b",
-        "styleSection": "position: fixed; right: 0; bottom: 0; padding: 1rem; border: 1px solid #000; background: #fff",
+        "styleSection": "position: fixed; right: 0; bottom: 0; padding: 1rem; border: 1px solid #000; background: #fff;",
         "button": { 
-         "styleButton": "border:1px solid #000",
+          "styleButton": "border:1px solid #000;",
           "classButton":"btn-primary btn display-7",
           "urlButton":"https://8b.com/",
           "textButton": "Перейти"
