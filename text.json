@@ -4,7 +4,7 @@
      "section": {
        "classSection": "mbr-flex mbr-jc-c",
        "text": "8b",
-       "styleSection": "background:#fff;",
+       "styleSection": "background:#fff; position:absolute; bottom:0; right:0;",
        "button": { 
          "styleButton": "border:1px solid #000;",
          "classButton":"btn-primary btn display-7",
