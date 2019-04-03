@@ -2,7 +2,15 @@
  "items": [
    {
      "section": {
-        
+     	"classSection": "mbr-flex mbr-jc-c",
+        "text": "8b",
+        "styleSection": "padding: 1rem; border: 1px solid #000;",
+        "button":{ 
+          "styleButton": "border:1px solid #000",
+          "classButton":"btn display7",
+          "urlButton":"https://8b.com/",
+          "textButton": "Перейти"
+        }
      }
    }
  ]
