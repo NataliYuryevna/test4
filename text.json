@@ -3,13 +3,13 @@
    {
      "section": {
        "classSection": "mbr-flex mbr-jc-c mbr-fixed",
-       "text": "8b",
+       "text": "This site made with 8b.com",
        "styleSection": "background:#fff; padding: 1rem; left: auto; top: auto;",
        "button": { 
-         "styleButton": "border:1px solid #000;",
+         "styleButton": "",
          "classButton":"btn-primary btn display-7",
          "urlButton":"https://8b.com/",
-         "textButton": "Перейти"
+         "textButton": "Create Website!"
        }
      }
    }
