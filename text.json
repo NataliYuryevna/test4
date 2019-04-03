@@ -2,9 +2,9 @@
  "items": [
    {
      "section": {
-       "classSection": "mbr-flex mbr-jc-c",
+       "classSection": "mbr-flex mbr-jc-c mbr-fixed",
        "text": "8b",
-       "styleSection": "background:#fff; position:fixed; bottom:0; right:0;",
+       "styleSection": "background:#fff; padding: 1rem;",
        "button": { 
          "styleButton": "border:1px solid #000;",
          "classButton":"btn-primary btn display-7",
